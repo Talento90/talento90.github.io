@@ -21,7 +21,6 @@
   "homepage": "https://github.com/Talento90/talento90.github.io#readme",
   "dependencies": {
     "bootstrap": "^3.3.6",
-    "bootstrap-material-design": "^4.0.1",
     "jquery": "^2.2.3"
   },
   "devDependencies": {

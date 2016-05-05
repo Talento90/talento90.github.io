@@ -10,13 +10,11 @@ var jsFiles = ['js/main.js'];
 
 var jsVendors = [
     './node_modules/bootstrap/dist/js/bootstrap.min.js',
-    './node_modules/bootstrap-material-design/dist/bootstrap-material-design.iife.min.js',
     './node_modules/jquery/dist/jquery.min.js'
     ];
     
 var cssVendors = [
     './node_modules/bootstrap/dist/css/bootstrap.min.css',
-    './node_modules/bootstrap-material-design/dist/bootstrap-material-design.min.css'
     ];
     
 var fontVendors = [
