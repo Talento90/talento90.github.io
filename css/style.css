@@ -5,6 +5,10 @@
   border: none;
 }
 
+.panel-heading {
+    background-color: #FFF !important; 
+}
+
 .page-header{
   text-align: center;    
 }
