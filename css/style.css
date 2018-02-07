@@ -46,6 +46,10 @@ opacity:0.9;
   background-color: #D38B28;
   opacity: 0.9;
 }
+.btn-medium{
+    background-color: #0085AE;
+    opacity: 0.9;
+  }
 
 /* resume stuff */
 .bs-callout {
@@ -202,6 +206,7 @@ opacity:0.9;
 .social-icons .fa-stack-exchange{background-color:#245590;}
 .social-icons .fa-stack-overflow{background-color:#FF7300;}
 .social-icons .fa-file{background-color:#FF7300;}
+.social-icons .fa-medium{background-color:#01AEF2;}
 .social-icons .fa-twitter,.social-icons .fa-twitter-square{background-color:#32CCFE;} 
 .social-icons .fa-youtube,.social-icons .fa-youtube-play,.social-icons .fa-youtube-square{background-color:#C52F30;}
  
